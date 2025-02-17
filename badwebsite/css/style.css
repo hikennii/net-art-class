@@ -1,0 +1,33 @@
+h1 {
+    font-family:"Cambria, Cochin, Georgia, Times, 'Times New Roman', serif";
+    text-align: center;
+    color: black;
+}
+
+body {
+    background-image: url("https://samuelearp.com/wp-content/uploads/2023/10/IMG_1512-scaled.jpeg");
+}
+
+div {
+    font-family:'Times New Roman', Times, serif;
+    color: cyan;
+    text-align: center;
+}
+
+.secret {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: x-small;
+    font-weight: lighter;
+    color: red;
+}
+
+#bold {
+    font-size: larger;
+    font-weight: bold;
+    color: cyan;
+}
+
+p {
+    text-align: center;
+    color: white;
+}
