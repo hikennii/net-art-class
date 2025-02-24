@@ -1,0 +1,54 @@
+* { 
+    margin: 0;  
+  }
+
+  .divcontainer {
+    width: 100vw;
+    height: 100vh;  
+  }
+
+  .block {
+    float: left;
+    width: 20%;
+    height: 25%;
+  }
+.block1 { background-color: #ff95f6; } 
+.block2 {background-image: url("https://i.kym-cdn.com/photos/images/original/002/064/920/c1a.jpg");
+background-position: cover;
+background-size: cover;} 
+.block3 { background-color: #ff95f6; } 
+.block4 { background-image: url("https://i.pinimg.com/736x/a5/84/1b/a5841b2cf13fd7592fff39b912204fd0.jpg");
+background-position: cover;
+background-size: cover; }
+.block5 { background-color: #ff95f6; } 
+.block6 { background-image: url("https://i.pinimg.com/736x/ae/3d/20/ae3d20ab204263af125073cb631c1c52.jpg");
+    background-position: cover;
+    background-size: cover; } 
+.block7 { background-color: #53e0ff; } 
+.block8 { background-image: url("https://i.pinimg.com/736x/34/8f/31/348f313a936a70c19e11e3088bf02e03.jpg");
+    background-position: cover;
+    background-size: cover;}
+.block9 { background-color: #53e0ff; }
+.block10 { background-image: url("https://i.pinimg.com/736x/b6/c9/fd/b6c9fd82b5634c0fb45c0adf560e8809.jpg");
+    background-position: cover;
+    background-size: cover;}
+.block11 {background-color: #98ff95;}
+.block12 { background-image: url("https://i.pinimg.com/736x/c5/81/31/c5813110952cba397c2785491815d316.jpg");
+    background-position: cover;
+    background-size: cover;}
+.block13 {background-color: #98ff95;}
+.block14 { background-image: url("https://i.pinimg.com/736x/52/5a/25/525a256bd065ddffe5bcc3a72121e245.jpg");
+    background-position: cover;
+    background-size: cover;}
+.block15 {background-color: #98ff95;}
+.block16 { background-image: url("https://i.pinimg.com/736x/7d/c7/4d/7dc74da7ccd30d80542206723b7b1254.jpg");
+    background-position: cover;
+    background-size: cover;}
+.block17 {background-color: #ff9595;}
+.block18 { background-image: url("https://i.pinimg.com/736x/45/d8/1d/45d81daa6f0d26e2b3b40d3df5194d8f.jpg");
+    background-position: cover;
+    background-size: cover;}
+.block19 {background-color: #ff9595;}
+.block20 { background-image: url("https://i.pinimg.com/736x/45/d8/1d/45d81daa6f0d26e2b3b40d3df5194d8f.jpg");
+    background-position: cover;
+    background-size: cover;}
